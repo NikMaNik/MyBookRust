@@ -1,0 +1,6 @@
+[book]
+authors = ["NikMaNik"]
+language = "ru"
+multilingual = false
+src = "src"
+title = "Моя Книга Rust"
