@@ -3,7 +3,7 @@ authors = ["NikMaNik"]
 language = "ru"
 multilingual = false
 src = "src"
-title = "HandBook_DataEngeneer"
+title = "HandBook_RustProgrammer"
 
 
 [build]
