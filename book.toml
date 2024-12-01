@@ -11,6 +11,10 @@ build-dir = "book"
 create-missing = true
 preprocess = ["links", "index"]
 
+[output.html]
+mathjax-support = true
+
+
 [output.html.playpen]
 editor = "./path/to/editor"
 editable = true
