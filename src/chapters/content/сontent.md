@@ -6,6 +6,6 @@
 Простая команда воспроизвести код на Rust 
 ```rust
 fn main(){
-    println!("Heelo World")
+    println!("Hello World")
 }
 ``` 
