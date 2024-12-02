@@ -6,6 +6,7 @@
   - [Float](types/float.md)
   - [Bool](types/bool.md)
   - [Char](types/char.md)
-  - [Преобразование типов](types/type_conversion.md)
+
+- [Преобразование типов](type_conversion.md)
 
 [Links](chapters/Links/links.md)
